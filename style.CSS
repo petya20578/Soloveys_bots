@@ -12,6 +12,12 @@ body {
 	display: none;
 }
 
+.none_text {
+    margin-left: 5px;
+    margin-right: 5px;
+	text-align: center;
+}
+
 .img_none {
     width: 300px;
     display: none;
